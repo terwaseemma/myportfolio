@@ -1,11 +1,11 @@
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
-
-Product Page: https://wwww.devcrud.com/
+This is a personal/portfolio website for Emmanuel Terwase (The Product Chef), highlighting his skills, experience and projects
 
 Credits:
 
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
+	John Doe Free CSS Template from https://wwww.devcrud.com/
+
+    Images:
+        Emmanuel Terwase:       	Personal Images
 
     Icons:
 		Themify Icons: 		(https://themify.me/themify-icons)
